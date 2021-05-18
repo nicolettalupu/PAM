@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="intro_text">See what\'s happening in the world right now</string>
+    <string name="create_account">Create account</string>
+    <string name="have_account">Have an account already?</string>
+    <string name="log_in">Log in</string>
+    <string name="create_your_account">Create your account</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="create">Create</string>
+    <string name="home">Home</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="log_in_to_twitter">Log in to Twitter.</string>
+</resources>
